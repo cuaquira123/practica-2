@@ -1,0 +1,21 @@
+C:\Users\Usuuario2\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Usuuario2\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuuario2\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Usuuario2\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Usuuario2\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Usuuario2\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Usuuario2\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Usuuario2\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Usuuario2\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Usuuario2\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Usuuario2\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\UPDS MATERIAS\PROGRAMACION I\ACTIVIDAD 3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\UPDS MATERIAS\PROGRAMACION I\ACTIVIDAD 3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\UPDS MATERIAS\PROGRAMACION I\ACTIVIDAD 3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\UPDS MATERIAS\PROGRAMACION I\ACTIVIDAD 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\UPDS MATERIAS\PROGRAMACION I\ACTIVIDAD 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\UPDS MATERIAS\PROGRAMACION I\ACTIVIDAD 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\UPDS MATERIAS\PROGRAMACION I\ACTIVIDAD 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\UPDS MATERIAS\PROGRAMACION I\ACTIVIDAD 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\UPDS MATERIAS\PROGRAMACION I\ACTIVIDAD 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\UPDS MATERIAS\PROGRAMACION I\ACTIVIDAD 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
